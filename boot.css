@@ -12,13 +12,14 @@ body {
 }
 .page-header_1 {
   font-family: 'Marck Script', cursive;
+  float: left;
 }
 p {
   font-family: 'Open Sans', sans-serif;
   font-size:15px;
 }
 .navbar {
-  width: 100vw;
+  width: 1000px;
   margin-left: 850px;
   
 }
