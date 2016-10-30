@@ -19,7 +19,7 @@ p {
   font-size:15px;
 }
 .navbar {
-  width: 1000px;
+  width: 100%;
   /* margin-left: 850px; */
   display: flex;
 }
