@@ -37,7 +37,7 @@ p {
   font-size:20px;
   font-color:black;
   padding:20px;
-  display:inline;
+  /* display:inline; */
 }
 
 .navbar a {
