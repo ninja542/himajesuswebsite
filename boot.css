@@ -19,7 +19,7 @@ p {
 }
 .navbar {
   width: 1000px;
-  margin-left: 850px;
+  /* margin-left: 850px; */
   
 }
 .navbar ul {
