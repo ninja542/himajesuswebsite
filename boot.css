@@ -12,6 +12,7 @@ body {
 }
 .page-header_1 {
   font-family: 'Marck Script', cursive;
+  flex-grow: 2
 }
 p {
   font-family: 'Open Sans', sans-serif;
@@ -20,7 +21,7 @@ p {
 .navbar {
   width: 1000px;
   /* margin-left: 850px; */
-  
+  display: flex;
 }
 .navbar ul {
   list-style-type:none;
