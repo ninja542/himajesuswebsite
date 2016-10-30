@@ -23,7 +23,7 @@ p {
   /* margin-left: 850px; */
   display: flex;
 }
-.navbar ul {
+/* .navbar ul {
   list-style-type:none;
   text-decoration:none;
   overflow:hidden;
@@ -31,9 +31,9 @@ p {
   padding: 0px;
   height:auto;
   
-}
+} */
 
-.navbar li {
+.navbar div {
   font-size:20px;
   font-color:black;
   padding:20px;
