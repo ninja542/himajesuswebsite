@@ -1,0 +1,106 @@
+body {
+  padding:3%;
+  text-align:center;
+  margin:auto;
+  background-size:cover;
+  background-repeat:no-repeat;
+  line-height:1.8;
+}
+.page-header {
+  font-family: 'Marck Script', cursive;
+  margin-right:900px;
+}
+.page-header_1 {
+  font-family: 'Marck Script', cursive;
+}
+p {
+  font-family: 'Open Sans', sans-serif;
+  font-size:15px;
+}
+.navbar {
+  width:1000px;
+  margin-left: 850px;
+  
+}
+.navbar ul {
+  list-style-type:none;
+  text-decoration:none;
+  overflow:hidden;
+  background-color:none;
+  padding: 0px;
+  height:auto;
+  
+}
+
+.navbar li {
+  font-size:20px;
+  font-color:black;
+  padding:20px;
+  display:inline;
+}
+
+.navbar a {
+  color:black;
+  display:inline;
+  padding:8px;
+  text-decoration:none;
+  text-transform:uppercase;
+  font-family: 'Dosis', sans-serif;
+  letter-spacing: 2px;
+  padding: 8px 8px 8px 8px;
+  
+}
+
+a:hover {
+  color:gray;
+  
+}
+
+.bgimg-1, .bgimg-2, .bgimg-3 {
+  position: relative;
+  opacity: 0.8;
+  background-attachment: fixed;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+
+}
+.bgimg-1 {
+  background-image: url("http://bit.ly/2ebGT3G");
+  min-height: 700px;
+}
+
+.bgimg-2 {
+  background-image: url("http://bit.ly/2e2ruzS");
+  min-height: 700px;
+}
+
+.bgimg-3 {
+  background-image: url("http://bit.ly/2evKryg");
+  min-height: 700px;
+}
+
+.caption {
+  position: absolute;
+  left: 0;
+  top: 50%;
+  width: 100%;
+  text-align: center;
+  color: #000;
+}
+
+.caption span.border {
+  background-color: #111;
+  color: #fff;
+  padding: 18px;
+  font-size: 35px;
+  font-family: 'Marck Script', cursive;
+  opacity:0.95;
+}
+
+h3 {
+  letter-spacing: 5px;
+  text-transform: uppercase;
+  font: 20px "Lato", sans-serif;
+  color: #111;
+}
