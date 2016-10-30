@@ -6,13 +6,10 @@ body {
   background-repeat:no-repeat;
   line-height:1.8;
 }
-.page-header {
-  font-family: 'Marck Script', cursive;
-  margin-right:900px;
-}
 .page-header_1 {
   font-family: 'Marck Script', cursive;
-  flex-grow: 2
+  flex-grow: 2;
+  text-align: left;
 }
 p {
   font-family: 'Open Sans', sans-serif;
